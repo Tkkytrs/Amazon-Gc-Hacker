@@ -25,3 +25,7 @@ $ python3 amzn.py
 ## Dev
 @tkkytrs
 
+
+if youre looking for key
+key is "test" 
+if it didn't work contant me on telegram to get a new one
