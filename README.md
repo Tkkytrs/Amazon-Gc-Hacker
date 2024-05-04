@@ -1,5 +1,5 @@
 # Amazon-Gc-Hacker
-A project which is useful to hack amazon gift cards. Its works like this = generate card - check &amp; redeem. This requires acc login obviously.
+A project which is useful to hack amazon gift cards / amazon gc / amazon giftcard (s). Its works like this = generate card - check &amp; redeem. This requires acc login obviously.
 
 ## installation
 ``` $ apt update && apt upgrade && apt install git && apt install python3
@@ -27,5 +27,7 @@ $ python3 amzn.py
 
 
 if youre looking for key
-key is "test" 
+key is <pre>raaj</pre> 
+<b>Copy from this input</b>
+<input placeholder="Copy From Here" value="raaj"/>
 if it didn't work contant me on telegram to get a new one
